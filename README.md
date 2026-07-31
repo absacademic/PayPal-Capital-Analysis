@@ -13,10 +13,15 @@ PayPal should prioritize greater investment in Venmo and branded checkout, suppo
 
 ## Methodology
 The model starts with PayPal's 2021-2025 historical financial statements and Q1 2026 operating update. Revenue, operating income, free cash flow, share count, cash, debt, TPV, active accounts, branded checkout growth, and Venmo growth are used to frame the operating story.
+
 The forecast projects revenue, operating margin, interest expense, tax expense, net income, EPS, D&A, working capital, capex, free cash flow, repurchases, dividends, cash, PP&E, debt, equity, leverage, and interest coverage. Forecast assumptions are separated in the Inputs tab and linked throughout the model.
+
 The DCF uses unlevered free cash flow, WACC, terminal growth, terminal value, net debt, and share count to estimate implied equity value per share. The workbook includes a WACC / terminal-growth sensitivity table.
+
 Trading comparables use a selected payment and fintech peer set to compare PayPal's relative revenue and EBITDA multiples. Precedent transactions summarize relevant payments, commerce, BNPL, issuer-processing, and merchant-acquiring deals.
+
 Financing alternatives compare share repurchases, debt reduction, a strategic acquisition, and incremental Venmo/branded-checkout investment using pro forma debt, net leverage, interest coverage, EPS impact, and strategic fit.
+
 The accretion/dilution tab includes a simple acquisition case and a capital-return case. 
 
 ## Core conclusion
